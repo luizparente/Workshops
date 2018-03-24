@@ -1,0 +1,14 @@
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.exe.config
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.exe
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.pdb
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.csprojResolveAssemblyReference.cache
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.csproj.CoreCompileInputs.cache
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.exe
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.pdb
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.exe.config
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.exe
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\bin\Debug\Pizza_Project.pdb
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.csprojResolveAssemblyReference.cache
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.csproj.CoreCompileInputs.cache
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.exe
+D:\_Engineering\Software Engineering\C#\Workshop\Session 1\Pizza - Session 1\Pizza_Project\Pizza_Project\obj\Debug\Pizza_Project.pdb
